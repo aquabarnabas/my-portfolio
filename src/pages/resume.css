@@ -1,0 +1,11 @@
+.bullet-points {
+  list-style-type: circle;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.bullet-points li {
+  margin-bottom: 5px;
+  justify-content: center;
+}

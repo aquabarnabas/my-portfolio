@@ -1,0 +1,9 @@
+.about {
+  padding-bottom: 20px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+}
